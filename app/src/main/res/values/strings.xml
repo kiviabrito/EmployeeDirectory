@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">EmployeeDirectory</string>
+    <string name="app_name">EmpDir</string>
+
+    <!-- MainFragment start -->
+    <string name="btn_default_list">Get default list</string>
+    <string name="btn_error_list">Get error list</string>
+    <string name="btn_empty_list">Get empty list</string>
+    <string name="msg_unavailable_employee_list">Sorry, no employee available at this time.</string>
+    <string name="description_user_profile_photo_image">User profile photo</string>
+    <string name="description_employee_list_empty_icon">Empty employee list icon</string>
+    <!-- MainFragment  end -->
 </resources>

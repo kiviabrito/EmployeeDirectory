@@ -1,151 +1,199 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [androidx.core:core-ktx:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/275b73e1396047e5715c356d80e7823a/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c4305dc3012e63e3993fbd9a910e5c0/jetified-viewbinding-4.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d8e59c928f8ec4166ddde39cee2b6914/jetified-koin-androidx-viewmodel-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1300efc74bfb373f2a9abcd9c205b328/jetified-koin-androidx-scope-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef58cf17edd230acb8dc22ce3595a16a/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0f22887b8315af5766d971da49d15171/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1d83dc62374b7c0ca55ee857c88cc849/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d1b7796d44347332f138d6b8df554e61/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/69ebf506c9f29760ce07fa60fd33feb4/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/64f21f5bdf5b9c531a5bdc31c2a97d61/jetified-koin-android-2.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/27f6897540771ffcf8d7c4f18c50eaa3/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/66c5351f58798620954dc6e1c249522b/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0dfbd3116c5a4b755f4e58d261b1bc1f/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/abb4365e04221ca474f10d39dfeb7a3b/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f8af8900e26d92d5634b2b9ec2f79507/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ccad3ef66aa1131d1a819038d42a7d4b/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6f88330b54e71c9469d2349d4fa1f843/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ab88b2734dd8806ee1d963f7c6425500/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8342e64fdb874f914070cdd9b6d538ec/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ac1757efa39eb4709aed54c832530dbb/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/a138580da03581b6ff891dd1ee6269ac/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef9accf084d76359ea4cb215a319f86d/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/02b370ebd99f18bf5315bff081402d24/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/518676cecad8de39036f018c85571460/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6102843053b105ee79b52247b77d9679/jetified-activity-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/935c76342c518dd4dd0fa1e6db38a07a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/19def1a4fb81a70b7b50127b16d4dfce/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ee0301c55459509252d904aee3122bc0/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/46ff4aee871e857e40246ee79a122e91/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/89b86ee81f307be3243a1b4a0bde3d39/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/148570d7041438e41dfec5a2349caab6/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d6ae3ab9a79774c5cc06aeb73689a7ce/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/163ad473abf54f31aac5d52ce95d2ecf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1a729837a2dc74b70a59f2bea6a88906/jetified-lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc9fa7706763fb0b708ad618230d1490/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ea203eb47f1fc731b21d3f7026d538f1/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c5f8cefc0b005b1311a17c7955f80a83/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c9505d5b59affbd68c63c84f4b66422/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc7cf49b82635bb702e21c243a18c510/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/73f9ed7f56e7392eaf445ea615f48b88/lifecycle-livedata-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/22607de069d6bc90a2d6f4c666589368/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/b7e352c57a1970f9c9275a6f3a41354f/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1c184ce3b12acbe229401a30cbf38eb6/jetified-savedstate-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:3:11-53
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d8e59c928f8ec4166ddde39cee2b6914/jetified-koin-androidx-viewmodel-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d8e59c928f8ec4166ddde39cee2b6914/jetified-koin-androidx-viewmodel-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1300efc74bfb373f2a9abcd9c205b328/jetified-koin-androidx-scope-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1300efc74bfb373f2a9abcd9c205b328/jetified-koin-androidx-scope-2.2.0/AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0dfbd3116c5a4b755f4e58d261b1bc1f/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0dfbd3116c5a4b755f4e58d261b1bc1f/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8342e64fdb874f914070cdd9b6d538ec/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8342e64fdb874f914070cdd9b6d538ec/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ea203eb47f1fc731b21d3f7026d538f1/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ea203eb47f1fc731b21d3f7026d538f1/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c9505d5b59affbd68c63c84f4b66422/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c9505d5b59affbd68c63c84f4b66422/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:13:13-39
 	android:label
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:11:13-45
 	android:roundIcon
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:12:13-58
 	android:icon
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:10:13-47
 	android:allowBackup
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:9:13-40
 	android:theme
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:11:13-44
-activity#com.kiviabrito.employeedirectory.MainActivity
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:14:13-44
 	android:name
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:8:13-46
+activity#com.kiviabrito.employeedirectory.ui.main.MainActivity
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:15:19-55
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:17:17-68
 	android:name
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
-MERGED from [androidx.core:core-ktx:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/275b73e1396047e5715c356d80e7823a/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/275b73e1396047e5715c356d80e7823a/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c4305dc3012e63e3993fbd9a910e5c0/jetified-viewbinding-4.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c4305dc3012e63e3993fbd9a910e5c0/jetified-viewbinding-4.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d8e59c928f8ec4166ddde39cee2b6914/jetified-koin-androidx-viewmodel-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d8e59c928f8ec4166ddde39cee2b6914/jetified-koin-androidx-viewmodel-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1300efc74bfb373f2a9abcd9c205b328/jetified-koin-androidx-scope-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1300efc74bfb373f2a9abcd9c205b328/jetified-koin-androidx-scope-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef58cf17edd230acb8dc22ce3595a16a/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef58cf17edd230acb8dc22ce3595a16a/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0f22887b8315af5766d971da49d15171/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0f22887b8315af5766d971da49d15171/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1d83dc62374b7c0ca55ee857c88cc849/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1d83dc62374b7c0ca55ee857c88cc849/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d1b7796d44347332f138d6b8df554e61/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d1b7796d44347332f138d6b8df554e61/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/69ebf506c9f29760ce07fa60fd33feb4/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/69ebf506c9f29760ce07fa60fd33feb4/jetified-lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/64f21f5bdf5b9c531a5bdc31c2a97d61/jetified-koin-android-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/64f21f5bdf5b9c531a5bdc31c2a97d61/jetified-koin-android-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/27f6897540771ffcf8d7c4f18c50eaa3/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/27f6897540771ffcf8d7c4f18c50eaa3/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/66c5351f58798620954dc6e1c249522b/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/66c5351f58798620954dc6e1c249522b/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0dfbd3116c5a4b755f4e58d261b1bc1f/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/kivia/.gradle/caches/transforms-2/files-2.1/0dfbd3116c5a4b755f4e58d261b1bc1f/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/abb4365e04221ca474f10d39dfeb7a3b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/abb4365e04221ca474f10d39dfeb7a3b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f8af8900e26d92d5634b2b9ec2f79507/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f8af8900e26d92d5634b2b9ec2f79507/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ccad3ef66aa1131d1a819038d42a7d4b/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ccad3ef66aa1131d1a819038d42a7d4b/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6f88330b54e71c9469d2349d4fa1f843/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6f88330b54e71c9469d2349d4fa1f843/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ab88b2734dd8806ee1d963f7c6425500/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ab88b2734dd8806ee1d963f7c6425500/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8342e64fdb874f914070cdd9b6d538ec/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8342e64fdb874f914070cdd9b6d538ec/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ac1757efa39eb4709aed54c832530dbb/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ac1757efa39eb4709aed54c832530dbb/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/a138580da03581b6ff891dd1ee6269ac/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/a138580da03581b6ff891dd1ee6269ac/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/258a42698dfbad982981be09ade0159b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c456a8915d8afd696bc72e604424fa33/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef9accf084d76359ea4cb215a319f86d/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ef9accf084d76359ea4cb215a319f86d/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/02b370ebd99f18bf5315bff081402d24/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/02b370ebd99f18bf5315bff081402d24/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/518676cecad8de39036f018c85571460/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/518676cecad8de39036f018c85571460/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6102843053b105ee79b52247b77d9679/jetified-activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/6102843053b105ee79b52247b77d9679/jetified-activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.loader:loader:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/935c76342c518dd4dd0fa1e6db38a07a/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/935c76342c518dd4dd0fa1e6db38a07a/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/19def1a4fb81a70b7b50127b16d4dfce/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/19def1a4fb81a70b7b50127b16d4dfce/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /Users/kivia/.gradle/caches/transforms-2/files-2.1/07ebdf5aa27002afa21ed6ccd69e052a/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ee0301c55459509252d904aee3122bc0/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ee0301c55459509252d904aee3122bc0/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/46ff4aee871e857e40246ee79a122e91/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/46ff4aee871e857e40246ee79a122e91/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/89b86ee81f307be3243a1b4a0bde3d39/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/89b86ee81f307be3243a1b4a0bde3d39/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/148570d7041438e41dfec5a2349caab6/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/148570d7041438e41dfec5a2349caab6/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d6ae3ab9a79774c5cc06aeb73689a7ce/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/d6ae3ab9a79774c5cc06aeb73689a7ce/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/163ad473abf54f31aac5d52ce95d2ecf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/163ad473abf54f31aac5d52ce95d2ecf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/kivia/.gradle/caches/transforms-2/files-2.1/4cf2a97b9f89ac66c40b71c84681373f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1a729837a2dc74b70a59f2bea6a88906/jetified-lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1a729837a2dc74b70a59f2bea6a88906/jetified-lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc9fa7706763fb0b708ad618230d1490/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc9fa7706763fb0b708ad618230d1490/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ea203eb47f1fc731b21d3f7026d538f1/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ea203eb47f1fc731b21d3f7026d538f1/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c5f8cefc0b005b1311a17c7955f80a83/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/c5f8cefc0b005b1311a17c7955f80a83/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c9505d5b59affbd68c63c84f4b66422/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/8c9505d5b59affbd68c63c84f4b66422/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc7cf49b82635bb702e21c243a18c510/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/fc7cf49b82635bb702e21c243a18c510/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/7fb77faac66bfe655b784c1b74e14cd5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/73f9ed7f56e7392eaf445ea615f48b88/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/73f9ed7f56e7392eaf445ea615f48b88/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/22607de069d6bc90a2d6f4c666589368/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/22607de069d6bc90a2d6f4c666589368/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/b7e352c57a1970f9c9275a6f3a41354f/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/b7e352c57a1970f9c9275a6f3a41354f/lifecycle-runtime-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/ebc886e3ed32365d9c9d5ec30d249a97/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1c184ce3b12acbe229401a30cbf38eb6/jetified-savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /Users/kivia/.gradle/caches/transforms-2/files-2.1/1c184ce3b12acbe229401a30cbf38eb6/jetified-savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -156,13 +204,3 @@ INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/Andr
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 		ADDED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kivia/Documents/Codepen/EmployeeDirectory/app/src/main/AndroidManifest.xml
-provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
-	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
-	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
-	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/kivia/.gradle/caches/transforms-2/files-2.1/f44a44d88b8a60e17c1cb50eb59b580f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

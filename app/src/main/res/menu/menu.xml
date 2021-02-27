@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/btnDefault"
+          android:title="@string/btn_default_list"
+          app:showAsAction="never"/>
+    <item android:id="@+id/btnError"
+          android:title="@string/btn_error_list"
+          app:showAsAction="never"/>
+    <item android:id="@+id/btnEmpty"
+          android:title="@string/btn_empty_list"
+          app:showAsAction="never"/>
+</menu>
